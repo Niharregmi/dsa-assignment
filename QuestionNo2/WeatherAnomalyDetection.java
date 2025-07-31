@@ -1,4 +1,4 @@
-package QuestionNo2;
+
 
 public class WeatherAnomalyDetection {
 

@@ -1,4 +1,4 @@
-package QuestionNo3;
+
 
 public class PatternSubsequenceChecker {
 
