@@ -1,14 +1,10 @@
-
-
+import javax.swing.*;
 import javax.swing.Timer;
-
-
 import javax.swing.border.TitledBorder;
-
-
-
-
-
+import java.awt.*;
+import java.awt.event.*;
+import java.util.concurrent.*;
+import java.util.*;
 
 
 public class BookingPanel extends JPanel {
