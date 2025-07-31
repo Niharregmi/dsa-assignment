@@ -1,4 +1,4 @@
-package ticketbooking;
+
 
 public class BookingRequest {
     public final String userId;

@@ -1,4 +1,4 @@
-package MazeSolver;
+
 
 import java.awt.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package ticketbooking;
+
 
 import javax.swing.Timer;
 

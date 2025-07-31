@@ -1,4 +1,4 @@
-package MazeSolver;
+
 
 import javax.swing.*;
 
