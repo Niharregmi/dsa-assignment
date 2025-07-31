@@ -1,4 +1,4 @@
-package QuestionNo1;
+
 import java.util.*;
 
 public class TechStartupRevenue {

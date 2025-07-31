@@ -1,4 +1,4 @@
-package QuestionNo1;
+
 public class SecurePinPolicy {
 
     // Function to return the minimum number of changes required to make the PIN strong
