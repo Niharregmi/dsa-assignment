@@ -1,7 +1,7 @@
-package thread;
 
-import model.TrafficLight;
-import model.Vehicle;
+
+
+
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

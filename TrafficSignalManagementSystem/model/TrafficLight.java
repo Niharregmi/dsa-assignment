@@ -1,4 +1,4 @@
-package model;
+
 
 public class TrafficLight {
     public enum Signal { RED, GREEN, YELLOW }
