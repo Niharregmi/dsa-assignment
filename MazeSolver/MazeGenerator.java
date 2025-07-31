@@ -1,6 +1,6 @@
 
 
-import java.util.*;
+
 
 public class MazeGenerator {
     private static final int WALL = 1;

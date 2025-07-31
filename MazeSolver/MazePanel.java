@@ -1,7 +1,7 @@
 
 
-import javax.swing.*;
-import java.awt.*;
+
+
 
 public class MazePanel extends JPanel {
     private final int rows = 20;
